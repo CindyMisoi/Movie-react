@@ -1,2 +1,2 @@
 # Movie-Streaming-site
-movie searching website using react
+movie streaming website using react
